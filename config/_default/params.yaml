@@ -22,7 +22,7 @@ twitter: ''
 
 email: kulpreetsingh2013@gmail.com
 address:
-  city: Delhi
+  city: Delhi\b
   country: India
   country_code: IN
 office_hours:
@@ -32,20 +32,8 @@ appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: DM Me on Twitter
     link: 'https://twitter.com/Kulpree20290305'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: ''
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: ''
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: ''
 
 # Site header
 
