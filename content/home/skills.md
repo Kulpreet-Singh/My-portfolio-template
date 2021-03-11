@@ -39,19 +39,19 @@ feature:
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 - icon: cuda
-  icon_pack: /assets/images/icon-pack/
+  icon_pack: custom
   name: CUDA Programming
   description: 70%
 - icon: django
-  icon_pack: /assets/images/icon-pack/
+  icon_pack: custom
   name: django
   description: 90%
 - icon: flutter
-  icon_pack: /assets/images/icon-pack/
+  icon_pack: custom
   name: Flutter
   description: 50%
 - icon: python
-  icon_pack: /assets/images/icon-pack/
+  icon_pack: custom
   name: Python
   description: 90%
 ---
