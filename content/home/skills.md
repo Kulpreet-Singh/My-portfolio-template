@@ -38,8 +38,8 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-- icon: "/assets/images/icon-pack/cuda"
-  icon_pack: "custom"
+- icon: "cuda"
+  icon_pack: "/assets/images/icon-pack/"
   name: "CUDA Programming"
   description: "70%"
 ---
