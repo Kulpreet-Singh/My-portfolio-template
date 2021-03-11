@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Kulpreet's Portfolio # Website name
-baseurl: '' # Website URL
+baseurl: 'https://kulpreetsingh.netlify.app/' # Website URL
 copyright: '© 2021 Kulpreet Singh' # Footer text, e.g. '© {year} Me'
 
 ############################
