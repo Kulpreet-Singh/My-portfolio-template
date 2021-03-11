@@ -21,18 +21,18 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: kulpreetsingh2013@gmail.com
-phone: 828 520 85 91
+phone: +91 8285208591
 address:
   street: 1/6679, East Rohtash Nagar, Shahdara
   city: Delhi
-  region: East Delhi
+  region: 
   postcode: '110032'
   country: India
   country_code: IN
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Enter Delhi, then enter shahdara
+directions: Use Aggarwal Departmental Store on Google Maps as a landmark
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -108,7 +108,7 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: true
+  gravatar: false
   shape: circle
 publications:
   date_format: January 2006
