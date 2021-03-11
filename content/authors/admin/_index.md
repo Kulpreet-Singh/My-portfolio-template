@@ -67,6 +67,6 @@ highlight_name: false
 
 Kulpreet Singh is a student of Computer Engineering at Thapar institute of Engineering and Technology. His interests include Parallel and Distributed Computing, Cloud computing, Machine Learning and App development. He is passionate and motivated enough to bring a change in the tech world.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, He is exploring the field of Computer Vision using Deep Learning. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/media/kulpreetResume.pdf" "newtab" >}}resumé{{< /staticref >}}.
