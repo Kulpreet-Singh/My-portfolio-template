@@ -20,24 +20,3 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-content:
-  page_type: project
-
-
-  filter_default: 0
-
-
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Flutter
-    tag: Flutter
-  - name: Other
-    tag: Demo
-
-design:
-
-  view: 2
-
-
-  flip_alt_rows: false
