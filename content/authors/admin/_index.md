@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.E. in Computer Engineering
+  - course: B.E. in Computer Engineering (9.94CGPA)
     institution: Thapar Institute of Engineering and Technology
     year: 2022
 

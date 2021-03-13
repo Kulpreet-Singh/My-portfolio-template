@@ -17,22 +17,21 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-  - icon: cuda
-    icon_pack: images/icon-pack/
+  - icon: nvidia
+    icon_pack: fab
     name: CUDA Programming
     description: 70%
   - icon: django
-    icon_pack: custom
+    icon_pack: fas
     name: django
     description: 90%
-  - icon: flutter
-    icon_pack: custom
+  - icon: dart
+    icon_pack: fab
     name: Flutter
     description: 50%
   - icon: python
-    icon_pack: custom
+    icon_pack: fab
     name: Python
     description: 90%
 widget_id: Skills
 ---
-![](/assets/media/python.svg "Python")
