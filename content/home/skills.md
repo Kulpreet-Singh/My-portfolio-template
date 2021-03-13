@@ -35,3 +35,4 @@ feature:
     description: 90%
 widget_id: Skills
 ---
+![](/assets/media/python.svg "Python")
