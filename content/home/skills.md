@@ -13,7 +13,7 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - icon: nvidia
+  - icon: cuda
     icon_pack: fab
     name: CUDA Programming
     description: 70%
